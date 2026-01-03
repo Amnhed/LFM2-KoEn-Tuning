@@ -1,0 +1,106 @@
+{"input": "The weather is beautiful today.", "output": "오늘 날씨가 아주 좋습니다.", "direction": "en2ko"}
+{"input": "오늘 날씨가 아주 좋습니다.", "output": "The weather is beautiful today.", "direction": "ko2en"}
+{"input": "I love learning new languages.", "output": "저는 새로운 언어를 배우는 것을 좋아합니다.", "direction": "en2ko"}
+{"input": "저는 새로운 언어를 배우는 것을 좋아합니다.", "output": "I love learning new languages.", "direction": "ko2en"}
+{"input": "Can you help me find the nearest subway station?", "output": "가장 가까운 지하철역을 찾는 것을 도와주실 수 있나요?", "direction": "en2ko"}
+{"input": "가장 가까운 지하철역을 찾는 것을 도와주실 수 있나요?", "output": "Can you help me find the nearest subway station?", "direction": "ko2en"}
+{"input": "Artificial intelligence is transforming many industries.", "output": "인공지능이 많은 산업을 변화시키고 있습니다.", "direction": "en2ko"}
+{"input": "인공지능이 많은 산업을 변화시키고 있습니다.", "output": "Artificial intelligence is transforming many industries.", "direction": "ko2en"}
+{"input": "Please remember to turn off the lights before leaving.", "output": "나가기 전에 불을 끄는 것을 잊지 마세요.", "direction": "en2ko"}
+{"input": "나가기 전에 불을 끄는 것을 잊지 마세요.", "output": "Please remember to turn off the lights before leaving.", "direction": "ko2en"}
+{"input": "The meeting has been postponed until next week.", "output": "회의가 다음 주로 연기되었습니다.", "direction": "en2ko"}
+{"input": "회의가 다음 주로 연기되었습니다.", "output": "The meeting has been postponed until next week.", "direction": "ko2en"}
+{"input": "Could you recommend a good restaurant nearby?", "output": "근처에 좋은 식당을 추천해 주실 수 있나요?", "direction": "en2ko"}
+{"input": "근처에 좋은 식당을 추천해 주실 수 있나요?", "output": "Could you recommend a good restaurant nearby?", "direction": "ko2en"}
+{"input": "The train leaves at 9 o'clock sharp.", "output": "기차는 정각 9시에 출발합니다.", "direction": "en2ko"}
+{"input": "기차는 정각 9시에 출발합니다.", "output": "The train leaves at 9 o'clock sharp.", "direction": "ko2en"}
+{"input": "I need to finish this report by Friday.", "output": "저는 금요일까지 이 보고서를 완성해야 합니다.", "direction": "en2ko"}
+{"input": "저는 금요일까지 이 보고서를 완성해야 합니다.", "output": "I need to finish this report by Friday.", "direction": "ko2en"}
+{"input": "The new smartphone has an impressive camera.", "output": "새 스마트폰은 인상적인 카메라를 갖추고 있습니다.", "direction": "en2ko"}
+{"input": "새 스마트폰은 인상적인 카메라를 갖추고 있습니다.", "output": "The new smartphone has an impressive camera.", "direction": "ko2en"}
+{"input": "She has been studying Korean for three years.", "output": "그녀는 3년 동안 한국어를 공부해 왔습니다.", "direction": "en2ko"}
+{"input": "그녀는 3년 동안 한국어를 공부해 왔습니다.", "output": "She has been studying Korean for three years.", "direction": "ko2en"}
+{"input": "The museum is closed on Mondays.", "output": "박물관은 월요일에 휴관합니다.", "direction": "en2ko"}
+{"input": "박물관은 월요일에 휴관합니다.", "output": "The museum is closed on Mondays.", "direction": "ko2en"}
+{"input": "Reading books helps expand your vocabulary.", "output": "책을 읽으면 어휘력을 확장하는 데 도움이 됩니다.", "direction": "en2ko"}
+{"input": "책을 읽으면 어휘력을 확장하는 데 도움이 됩니다.", "output": "Reading books helps expand your vocabulary.", "direction": "ko2en"}
+{"input": "The company announced a new product line today.", "output": "회사는 오늘 새로운 제품 라인을 발표했습니다.", "direction": "en2ko"}
+{"input": "회사는 오늘 새로운 제품 라인을 발표했습니다.", "output": "The company announced a new product line today.", "direction": "ko2en"}
+{"input": "Please fill out this application form.", "output": "이 신청서를 작성해 주세요.", "direction": "en2ko"}
+{"input": "이 신청서를 작성해 주세요.", "output": "Please fill out this application form.", "direction": "ko2en"}
+{"input": "The price includes tax and shipping.", "output": "가격에는 세금과 배송비가 포함되어 있습니다.", "direction": "en2ko"}
+{"input": "가격에는 세금과 배송비가 포함되어 있습니다.", "output": "The price includes tax and shipping.", "direction": "ko2en"}
+{"input": "I apologize for any inconvenience this may have caused.", "output": "불편을 끼쳐 드려 죄송합니다.", "direction": "en2ko"}
+{"input": "불편을 끼쳐 드려 죄송합니다.", "output": "I apologize for any inconvenience this may have caused.", "direction": "ko2en"}
+{"input": "The concert was absolutely amazing.", "output": "콘서트는 정말 놀라웠습니다.", "direction": "en2ko"}
+{"input": "콘서트는 정말 놀라웠습니다.", "output": "The concert was absolutely amazing.", "direction": "ko2en"}
+{"input": "We need to discuss this matter in the next meeting.", "output": "우리는 다음 회의에서 이 문제를 논의해야 합니다.", "direction": "en2ko"}
+{"input": "우리는 다음 회의에서 이 문제를 논의해야 합니다.", "output": "We need to discuss this matter in the next meeting.", "direction": "ko2en"}
+{"input": "The flight has been delayed due to bad weather.", "output": "비행기가 악천후로 인해 지연되었습니다.", "direction": "en2ko"}
+{"input": "비행기가 악천후로 인해 지연되었습니다.", "output": "The flight has been delayed due to bad weather.", "direction": "ko2en"}
+{"input": "He graduated from university with honors.", "output": "그는 대학교를 우등으로 졸업했습니다.", "direction": "en2ko"}
+{"input": "그는 대학교를 우등으로 졸업했습니다.", "output": "He graduated from university with honors.", "direction": "ko2en"}
+{"input": "The library opens at 8 AM and closes at 10 PM.", "output": "도서관은 오전 8시에 열고 오후 10시에 닫습니다.", "direction": "en2ko"}
+{"input": "도서관은 오전 8시에 열고 오후 10시에 닫습니다.", "output": "The library opens at 8 AM and closes at 10 PM.", "direction": "ko2en"}
+{"input": "Please let me know if you have any questions.", "output": "질문이 있으시면 알려주세요.", "direction": "en2ko"}
+{"input": "질문이 있으시면 알려주세요.", "output": "Please let me know if you have any questions.", "direction": "ko2en"}
+{"input": "The research results were published in a scientific journal.", "output": "연구 결과는 과학 저널에 발표되었습니다.", "direction": "en2ko"}
+{"input": "연구 결과는 과학 저널에 발표되었습니다.", "output": "The research results were published in a scientific journal.", "direction": "ko2en"}
+{"input": "This software is available for free download.", "output": "이 소프트웨어는 무료로 다운로드할 수 있습니다.", "direction": "en2ko"}
+{"input": "이 소프트웨어는 무료로 다운로드할 수 있습니다.", "output": "This software is available for free download.", "direction": "ko2en"}
+{"input": "The deadline for submitting applications is March 15th.", "output": "신청서 제출 마감일은 3월 15일입니다.", "direction": "en2ko"}
+{"input": "신청서 제출 마감일은 3월 15일입니다.", "output": "The deadline for submitting applications is March 15th.", "direction": "ko2en"}
+{"input": "Can I pay with credit card?", "output": "신용카드로 결제할 수 있나요?", "direction": "en2ko"}
+{"input": "신용카드로 결제할 수 있나요?", "output": "Can I pay with credit card?", "direction": "ko2en"}
+{"input": "She works as a software engineer at a tech company.", "output": "그녀는 기술 회사에서 소프트웨어 엔지니어로 일합니다.", "direction": "en2ko"}
+{"input": "그녀는 기술 회사에서 소프트웨어 엔지니어로 일합니다.", "output": "She works as a software engineer at a tech company.", "direction": "ko2en"}
+{"input": "The temperature will drop below freezing tonight.", "output": "오늘 밤 기온이 영하로 떨어질 것입니다.", "direction": "en2ko"}
+{"input": "오늘 밤 기온이 영하로 떨어질 것입니다.", "output": "The temperature will drop below freezing tonight.", "direction": "ko2en"}
+{"input": "I would like to make a reservation for two people.", "output": "두 명 예약하고 싶습니다.", "direction": "en2ko"}
+{"input": "두 명 예약하고 싶습니다.", "output": "I would like to make a reservation for two people.", "direction": "ko2en"}
+{"input": "The contract will be valid for one year.", "output": "계약은 1년 동안 유효합니다.", "direction": "en2ko"}
+{"input": "계약은 1년 동안 유효합니다.", "output": "The contract will be valid for one year.", "direction": "ko2en"}
+{"input": "We are committed to providing excellent customer service.", "output": "우리는 우수한 고객 서비스를 제공하기 위해 최선을 다하고 있습니다.", "direction": "en2ko"}
+{"input": "우리는 우수한 고객 서비스를 제공하기 위해 최선을 다하고 있습니다.", "output": "We are committed to providing excellent customer service.", "direction": "ko2en"}
+{"input": "The park is a great place for families.", "output": "그 공원은 가족들에게 좋은 장소입니다.", "direction": "en2ko"}
+{"input": "그 공원은 가족들에게 좋은 장소입니다.", "output": "The park is a great place for families.", "direction": "ko2en"}
+{"input": "Please attach your resume to the email.", "output": "이메일에 이력서를 첨부해 주세요.", "direction": "en2ko"}
+{"input": "이메일에 이력서를 첨부해 주세요.", "output": "Please attach your resume to the email.", "direction": "ko2en"}
+{"input": "The economy is showing signs of recovery.", "output": "경제가 회복의 조짐을 보이고 있습니다.", "direction": "en2ko"}
+{"input": "경제가 회복의 조짐을 보이고 있습니다.", "output": "The economy is showing signs of recovery.", "direction": "ko2en"}
+{"input": "I prefer to travel by train rather than by plane.", "output": "저는 비행기보다 기차로 여행하는 것을 선호합니다.", "direction": "en2ko"}
+{"input": "저는 비행기보다 기차로 여행하는 것을 선호합니다.", "output": "I prefer to travel by train rather than by plane.", "direction": "ko2en"}
+{"input": "The building was constructed in 1985.", "output": "그 건물은 1985년에 건설되었습니다.", "direction": "en2ko"}
+{"input": "그 건물은 1985년에 건설되었습니다.", "output": "The building was constructed in 1985.", "direction": "ko2en"}
+{"input": "Could you explain how this works?", "output": "이것이 어떻게 작동하는지 설명해 주시겠어요?", "direction": "en2ko"}
+{"input": "이것이 어떻게 작동하는지 설명해 주시겠어요?", "output": "Could you explain how this works?", "direction": "ko2en"}
+{"input": "The server is currently undergoing maintenance.", "output": "서버가 현재 유지보수 중입니다.", "direction": "en2ko"}
+{"input": "서버가 현재 유지보수 중입니다.", "output": "The server is currently undergoing maintenance.", "direction": "ko2en"}
+{"input": "Regular exercise is important for maintaining good health.", "output": "규칙적인 운동은 건강을 유지하는 데 중요합니다.", "direction": "en2ko"}
+{"input": "규칙적인 운동은 건강을 유지하는 데 중요합니다.", "output": "Regular exercise is important for maintaining good health.", "direction": "ko2en"}
+{"input": "The project is expected to be completed by the end of this year.", "output": "이 프로젝트는 올해 말까지 완료될 예정입니다.", "direction": "en2ko"}
+{"input": "이 프로젝트는 올해 말까지 완료될 예정입니다.", "output": "The project is expected to be completed by the end of this year.", "direction": "ko2en"}
+{"input": "Where is the nearest hospital?", "output": "가장 가까운 병원이 어디에 있나요?", "direction": "en2ko"}
+{"input": "가장 가까운 병원이 어디에 있나요?", "output": "Where is the nearest hospital?", "direction": "ko2en"}
+{"input": "The movie received excellent reviews from critics.", "output": "그 영화는 비평가들로부터 우수한 평가를 받았습니다.", "direction": "en2ko"}
+{"input": "그 영화는 비평가들로부터 우수한 평가를 받았습니다.", "output": "The movie received excellent reviews from critics.", "direction": "ko2en"}
+{"input": "Please confirm your attendance by email.", "output": "이메일로 참석 여부를 확인해 주세요.", "direction": "en2ko"}
+{"input": "이메일로 참석 여부를 확인해 주세요.", "output": "Please confirm your attendance by email.", "direction": "ko2en"}
+{"input": "The new policy will take effect next month.", "output": "새로운 정책은 다음 달부터 시행됩니다.", "direction": "en2ko"}
+{"input": "새로운 정책은 다음 달부터 시행됩니다.", "output": "The new policy will take effect next month.", "direction": "ko2en"}
+{"input": "He has more than 10 years of experience in this field.", "output": "그는 이 분야에서 10년 이상의 경험을 가지고 있습니다.", "direction": "en2ko"}
+{"input": "그는 이 분야에서 10년 이상의 경험을 가지고 있습니다.", "output": "He has more than 10 years of experience in this field.", "direction": "ko2en"}
+{"input": "The traffic is really heavy during rush hour.", "output": "출퇴근 시간에는 교통이 정말 막힙니다.", "direction": "en2ko"}
+{"input": "출퇴근 시간에는 교통이 정말 막힙니다.", "output": "The traffic is really heavy during rush hour.", "direction": "ko2en"}
+{"input": "I would appreciate your prompt response.", "output": "빠른 답변 부탁드립니다.", "direction": "en2ko"}
+{"input": "빠른 답변 부탁드립니다.", "output": "I would appreciate your prompt response.", "direction": "ko2en"}
+{"input": "The team won the championship for the third consecutive year.", "output": "그 팀은 3년 연속 챔피언십에서 우승했습니다.", "direction": "en2ko"}
+{"input": "그 팀은 3년 연속 챔피언십에서 우승했습니다.", "output": "The team won the championship for the third consecutive year.", "direction": "ko2en"}
+{"input": "Do you have any allergies to food?", "output": "음식 알레르기가 있으신가요?", "direction": "en2ko"}
+{"input": "음식 알레르기가 있으신가요?", "output": "Do you have any allergies to food?", "direction": "ko2en"}
+{"input": "The interview will be conducted via video call.", "output": "면접은 화상 통화로 진행됩니다.", "direction": "en2ko"}
+{"input": "면접은 화상 통화로 진행됩니다.", "output": "The interview will be conducted via video call.", "direction": "ko2en"}
+{"input": "Climate change is one of the biggest challenges of our time.", "output": "기후 변화는 우리 시대의 가장 큰 도전 중 하나입니다.", "direction": "en2ko"}
+{"input": "기후 변화는 우리 시대의 가장 큰 도전 중 하나입니다.", "output": "Climate change is one of the biggest challenges of our time.", "direction": "ko2en"}
+{"input": "Thank you for your patience and understanding.", "output": "인내심과 이해에 감사드립니다.", "direction": "en2ko"}
+{"input": "인내심과 이해에 감사드립니다.", "output": "Thank you for your patience and understanding.", "direction": "ko2en"}

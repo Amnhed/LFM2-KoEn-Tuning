@@ -1,0 +1,27 @@
+# ========================================
+# LFM2-KoEn-Tuning GitHub Release
+# 공개에서 제외할 파일들
+# ========================================
+
+# 환경변수 (민감정보)
+.env
+
+# 개인용 스크립트 (토큰 포함)
+scripts/
+
+# 로컬 데이터셋 저장소 (업로드 제외)
+dataset/no_upload/
+
+# 아카이브 (실패/레거시 실험)
+colab/archive/
+
+# 토큰 포함된 원본 노트북 (→ _github 버전 사용 권장)
+colab/GRPO_v8_adapter.ipynb
+colab/GRPO_v8_unsloth_vllm.ipynb
+colab/SFT_v6.1_curriculum.ipynb
+colab/SFT_v6.1_curriculum_github.ipynb
+quantization/convert_to_gguf.ipynb
+
+# 레거시 및 중간 단계 노트북
+kaggle/full-finetune-lfm2-mt-v4-kaggle-running.ipynb
+kaggle/full-finetune-lfm2-mt-v6-resume-8000.ipynb
