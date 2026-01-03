@@ -1,3 +1,5 @@
+[🇺🇸 English](README_EN.md)
+
 # 📚 Dataset
 
 학습 데이터 샘플 및 업로드 스크립트

@@ -1,3 +1,5 @@
+[🇺🇸 English](README_EN.md)
+
 # 🏋️ Kaggle Notebooks
 
 Kaggle에서 실행 가능한 학습 노트북
