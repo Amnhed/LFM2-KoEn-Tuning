@@ -5,6 +5,7 @@
 **LiquidAI LFM2-1.2B 기반 한국어-영어 양방향 번역 모델 파인튜닝**
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Models-Hugging%20Face-yellow)](https://huggingface.co/gyung)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hqPC9yEI9uyD8DjqRtBKt49sMeIcqsQh#scrollTo=KRiTAlPQOFbK)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 > ⚠️ **Note**: 해당 레포는 기존에 학습했던 코드들을 기반으로 안티그레비티(Antigravity)에서 Claude Opus 4.5를 써서 만든 코드들입니다. 아직 Colab과 Kaggle에서 실행을 하며 검증해보지 않았습니다. 해당 실험을 마치고 해당 링크를 포함해서 추가 업데이트를 할 예정입니다.

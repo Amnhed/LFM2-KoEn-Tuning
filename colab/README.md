@@ -6,11 +6,11 @@ Google Colab에서 실행 가능한 학습 노트북
 
 ## 📂 파일 목록
 
-| 파일 | 설명 | GPU | 시간 |
+| 파일 | 설명 | GPU | Colab |
 |------|------|:---:|:----:|
-| `GRPO_v8_adapter_github.ipynb` | **GRPO 강화학습** (SOTA 달성) | T4 | ~2h |
-| `GRPO_v8_unsloth_vllm_github.ipynb` | GRPO + Unsloth/vLLM 최적화 | T4/L4 | ~2h |
-| `SFT_colab_github.ipynb` | **SFT Curriculum** (Colab 스타일) | T4 | ~3h |
+| `GRPO_v8_adapter_github.ipynb` | **GRPO 강화학습** (SOTA 달성) | T4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hqPC9yEI9uyD8DjqRtBKt49sMeIcqsQh#scrollTo=KRiTAlPQOFbK) |
+| `GRPO_v8_unsloth_vllm_github.ipynb` | GRPO + Unsloth/vLLM 최적화 | T4/L4 |  |
+| `SFT_colab_github.ipynb` | **SFT Curriculum** (Colab 스타일) | T4 |  |
 
 ## ⚠️ GitHub용 파일 설명
 
