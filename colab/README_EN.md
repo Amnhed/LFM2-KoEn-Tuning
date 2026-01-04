@@ -6,11 +6,11 @@ Training notebooks for Google Colab
 
 ## 📂 Files
 
-| File | Description | GPU | Time |
+| File | Description | GPU | Colab |
 |------|-------------|:---:|:----:|
-| `GRPO_v8_adapter_github.ipynb` | **GRPO RL** (SOTA) | T4 | ~2h |
-| `GRPO_v8_unsloth_vllm_github.ipynb` | GRPO + Unsloth/vLLM optimized | T4/L4 | ~2h |
-| `SFT_colab_github.ipynb` | **SFT Curriculum** (Colab style) | T4 | ~3h |
+| `GRPO_v8_adapter_github.ipynb` | **GRPO RL** (SOTA) | T4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hqPC9yEI9uyD8DjqRtBKt49sMeIcqsQh#scrollTo=KRiTAlPQOFbK) |
+| `GRPO_v8_unsloth_vllm_github.ipynb` | GRPO + Unsloth/vLLM optimized | T4/L4 | |
+| `SFT_colab_github.ipynb` | **SFT Curriculum** (Colab style) | T4 |  |
 
 ## ⚠️ GitHub Version Notes
 

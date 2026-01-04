@@ -5,6 +5,7 @@
 **LiquidAI LFM2-1.2B Korean-English Bidirectional Translation Model Fine-tuning**
 
 [![Hugging Face](https://img.shields.io/badge/🤗%20Models-Hugging%20Face-yellow)](https://huggingface.co/gyung)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hqPC9yEI9uyD8DjqRtBKt49sMeIcqsQh#scrollTo=KRiTAlPQOFbK)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 > ⚠️ **Note**: This repo contains code generated using Claude Opus 4.5 in Antigravity, based on previously trained code. The notebooks have not yet been validated by running in Colab and Kaggle. Additional updates including links to executed notebooks will be added after testing.
